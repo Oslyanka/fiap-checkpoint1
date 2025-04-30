@@ -92,6 +92,7 @@ Acesse: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 - DELETE /pedidos/{id} → ✅
 
 ## 📌 Autores
+
 Nome:Aksel Viktor Caminha Rae
 RM: 99011
 
@@ -100,4 +101,5 @@ RM: 98860
 
 Nome: Arthur Petrin
 RM: 98735
+
 ---
