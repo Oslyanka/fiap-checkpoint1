@@ -1,0 +1,26 @@
+### Criar novo pedido
+POST http://localhost:8080/pedidos
+Content-Type: application/json
+
+{
+  "clienteNome": "Maria Souza",
+  "valorTotal": 150.00
+}
+
+### Listar todos os pedidos
+GET http://localhost:8080/pedidos
+
+### Buscar pedido por ID
+GET http://localhost:8080/pedidos/1
+
+### Atualizar pedido
+PUT http://localhost:8080/pedidos/1
+Content-Type: application/json
+
+{
+  "clienteNome": "Maria Atualizada",
+  "valorTotal": 180.00
+}
+
+### Deletar pedido
+DELETE http://localhost:8080/pedidos/1
