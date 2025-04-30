@@ -85,11 +85,21 @@ Acesse: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 
 ## 📎 Prints dos testes (inserir screenshots aqui)
 
-- POST /pedidos → ✅
-- GET /pedidos → ✅
-- GET /pedidos/{id} → ✅
-- PUT /pedidos/{id} → ✅
-- DELETE /pedidos/{id} → ✅
+- POST /pedidos → 
+![postman-post1](https://github.com/user-attachments/assets/3ff51b14-4d0c-4db9-8e75-7d10041c42fa)
+
+- GET /pedidos → 
+![postman-get1](https://github.com/user-attachments/assets/869c3655-91c6-40d0-b345-44b5920839cc)
+
+- GET /pedidos/{id} →
+- ![postman-get2](https://github.com/user-attachments/assets/e4cc08b1-adf3-4d9d-9f8b-3860e48e1ad8)
+
+- PUT /pedidos/{id} →
+- ![postman-put1](https://github.com/user-attachments/assets/86609e6d-e851-4625-af22-cfc3979ae19a)
+
+- DELETE /pedidos/{id} →
+- ![postman-delete1](https://github.com/user-attachments/assets/07073a65-dc9d-4191-9b16-bb0c34e67e02)
+
 
 ## 📌 Autores
 
